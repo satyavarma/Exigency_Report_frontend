@@ -1,0 +1,54 @@
+.header {
+  text-align: center;
+  color: rgb(9, 165, 113);
+  font-size: 60px;
+  margin:30px;
+}
+
+.Nav{
+  background-color:rgb(9, 165, 113);
+  height: 100px;
+}
+
+.NavBrand{
+ color: white;
+ text-decoration: none; 
+ font-size: 25px;
+}
+ 
+.search{
+  align-content: center;
+  margin: 70px 100px 0px 100px;
+}
+
+.footer{
+  border-top:1px solid teal;
+  background-color: whitesmoke;
+  color:teal;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.Log-InButton, .Sign-UpButton, .Log-OutButton, .SubmitButton{
+  background-color: teal;
+  border-color: teal;
+  color:white;
+  margin-right:20px;
+}
+
+.detail{
+  margin:100px 50px 100px 50px;
+}
+
+.modalHeader{
+  color:rgb(9, 165, 113);
+}
+
+
+.modalButton{
+  background-color: teal;
+}
+
+.modalData{
+  width: 100%;
+}
